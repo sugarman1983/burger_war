@@ -84,7 +84,7 @@ class NaviBot():
             self.setGoal(0,0.6,0)
             self.setGoal(0,0.6,-3.1415*3/4)
 
-            self.setGoal(0.3,-0.3,-3.1415*3/4)
+            self.setGoal(-0.3,0.3,-3.1415*3/4)
             
 
 

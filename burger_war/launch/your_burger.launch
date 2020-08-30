@@ -9,7 +9,7 @@
     <include file="$(find burger_navigation)/launch/burger_navigation.launch">
     </include>
 
-    <node pkg="burger_war" type="sugarman_2.py" name="SugarMan" output="screen">
+    <node pkg="burger_war" type="chilicheese.py" name="chilicheese" output="screen">
     </node>
 
     <!-- END sample program node -->
